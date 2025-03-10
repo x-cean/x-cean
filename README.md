@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 🌟
+
+- ☺️ It's Xiao here!
+- 🌱 I’m currently learning python and the world is becoming different to me along the journey. How exciting!
+- 🦋 Look forward to work on more interesting projects in the future!
 
 <!--
 **x-cean/x-cean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
