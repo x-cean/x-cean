@@ -1,7 +1,7 @@
 ## Hi there 🌟
 
 - ☺️ It's Xiao here!
-- 🌱 I’m currently learning python and the world is becoming different to me along the journey. How exciting!
+- 🌱 I’m currently learning python and got something in the shaping. How exciting!
 - 🦋 Look forward to work on more interesting projects in the future!
 
 <!--
