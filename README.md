@@ -1,6 +1,6 @@
 ## Hi there 🌟
 
-- ☺️ It's Xiao here!
+- ☺️ Great to see you here!
 - 🌱 I’m currently learning python and got something in the shaping. How exciting!
 - 🦋 Look forward to work on more interesting projects in the future!
 
